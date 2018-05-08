@@ -1,0 +1,31 @@
+{
+  "organisation" : {
+	"org_name" : "",
+	"org_type" : "",
+	"pcontact" : {
+	  "pname" : "",
+	  "pemail" : "",
+	  "pnum" : ""
+	},
+	"scontact" : {
+	  "sname" : "",
+	  "semail" : "",
+	  "snum" : ""
+	},
+	"address" : {
+	  "plot" : "",
+	  "street" : "",
+	  "area" : "",
+	  "city" : "",
+	  "pincode" : "",
+	  "landmark" : "",
+	  "state" : ""
+	},
+	"desc" : "",
+	"org_imgs" : {
+	  "img1" : "",
+	  "img2" : "",
+	  "img3" : ""
+	}
+  }
+}
